@@ -13,7 +13,7 @@ monikerRange: 'azure-bot-service-4.0'
 
 # Deploy your bot
 
-[!INCLUDE [applies-to](./includes/deployment-note-cli.md)]
+[!INCLUDE [applies-to](./includes/C2-deployment-note-cli.md)]
 
 In this article, we'll show you how to deploy your bot to Azure. It would be useful to read this article before following the steps, so that you fully understand what is involved in deploying a bot.
 
