@@ -15,7 +15,7 @@ ms.date: 12/13/2017
 
 You can configure your bot to communicate with people using the Telegram messaging app.
 
-[!INCLUDE [Channel Inspector intro](~/include/C3-snippet-channel-inspector.md)]
+[!INCLUDE [Channel Inspector intro](~/testfolder/C3-snippet-channel-inspector.md)]
 
 ## Visit the Bot Father to create a new Telegram bot
 
