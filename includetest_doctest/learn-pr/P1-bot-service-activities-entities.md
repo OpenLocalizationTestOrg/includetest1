@@ -21,7 +21,7 @@ Entities are a part of an activity, and provide additional information about the
 The *entities* property of a message is an array of open-ended <a href="http://schema.org/" target="_blank">schema.org</a>
 objects which allows the exchange of common contextual metadata between the channel and bot.
 
-### Mention entities
+### Mention entities 
 
 Many channels support the ability for a bot or user to "mention" someone within the context of a conversation.
 To mention a user in a message, populate the message's entities property with a *mention* object.
